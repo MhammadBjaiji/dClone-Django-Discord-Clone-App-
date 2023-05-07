@@ -1,6 +1,6 @@
 # home Page
 
-![home](https://github.com/MhammadBjaiji/dClone-Django-Discord-Clone-App-/tree/main/imgs/home.png)
+![home](imgs/home.png?raw=true)
 
 
 
