@@ -2,12 +2,29 @@
 
 ![home](imgs/home.png?raw=true)
 
+# room Page
 
+![room](imgs/room.png?raw=true)
 
+# profile Page
 
+![profile](imgs/profile.png?raw=true)
 
+# login Page
 
+![login](imgs/login.png?raw=true)
 
+# register Page
+
+![register](imgs/Sign_up.png?raw=true)
+
+# topics Page
+
+![topics](imgs/topics.png?raw=true)
+
+# mobile view Page
+
+![mobile](imgs/mobile.png?raw=true)
 
 
 # dClone-Django-Discord-Clone-App-
